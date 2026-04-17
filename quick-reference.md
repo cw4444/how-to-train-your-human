@@ -19,6 +19,8 @@ The short version. Print it. Tattoo it. Whatever works.
 13. **Context is not optional.** Who you are, what this is for, and what "done" looks like. Every time.
 14. **Share constraints upfront.** Word count, audience, tone, deadline — before the AI starts, not after.
 15. **Just ask the question.** No apology, no preamble, no "this might be a silly question but." It never is.
+16. **Say what to optimise for.** Speed, accuracy, brevity, creativity, cost, or caution are different jobs.
+17. **Name the success bar.** Draft to edit, ready to send, or a rough recommendation are not the same thing.
 
 ---
 

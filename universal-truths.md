@@ -14,6 +14,8 @@ Things every AI agrees on. If there's one doc to read, it's this one.
 - **Do not paste secrets anywhere.** API keys, passwords, tokens — not in chat, not in prompts, not ever.
 - **Examples beat adjectives.** "Like this ↓" beats "make it snappy." Paste three examples of your voice instead of saying "write in my voice."
 - **Tell me what kind of response you want.** Draft vs. final. Exploratory vs. decisive. Thinking-out-loud vs. just-the-answer. The AI will default to something sensible — but you probably have a preference.
+- **Tell me what to optimise for.** Fast, cheap, careful, creative, concise, or exhaustive are different briefings.
+- **Tell me what "done" means.** A sketch, a polished draft, a final answer, or a recommendation for the next step are not interchangeable.
 - **Treat the first output as a draft, not a verdict.** The first answer is the AI guessing at what you want. The second is it responding to your feedback. The third is usually the good one.
 - **Name the real blocker.** "Help me write this email" often means "I don't know how to say no to this person." Say the hard part out loud.
 - **Context rot is real.** After ~20 turns, earlier instructions get diluted by later ones and things go sideways. Start a new chat with a clean summary when a thread gets long.

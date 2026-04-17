@@ -56,6 +56,7 @@ This means:
 - **Confirm before destructive actions.** I'll ask — don't skip past it.
 - **Git before anything risky.** Clean working tree = easy rollback.
 - **Small, focused tasks.** "Refactor the entire auth system" in one prompt is how things go wrong. "Refactor the login handler to use the new session utility" is how things go right.
+- **Tell me the target state.** "Make it pass tests" is useful; "make it nicer" is mushy.
 
 ---
 

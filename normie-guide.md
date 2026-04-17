@@ -42,6 +42,7 @@ If you want a specific tone or style, paste an example of it. "Write this in my 
 - **What constraints exist** — word count, things to avoid, platform it's going on
 - **What you've already tried** — saves you getting the same suggestion twice
 - **What "done" looks like** — rough draft for you to edit, or ready to send?
+- **What it should optimise for** — speed, accuracy, brevity, creativity, or caution all pull the answer in different directions
 
 ---
 

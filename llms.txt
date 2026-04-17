@@ -1,0 +1,37 @@
+# How to Train Your Human
+
+> A plain-English field guide for humans and AI agents working together. This site explains how to brief AI well, how to keep conversations useful, and how to avoid common mistakes like vague prompts, context drift, and pasted secrets.
+
+This repo is a small knowledge base, not an app. Start with the human-facing guides if you want the shortest path to useful advice.
+
+## Start here
+
+- [README](https://github.com/cw4444/how-to-train-your-human): project overview and map
+- [normie-guide.md](https://github.com/cw4444/how-to-train-your-human/blob/main/normie-guide.md): general guide for normal people
+- [quick-reference.md](https://github.com/cw4444/how-to-train-your-human/blob/main/quick-reference.md): short rules of thumb
+- [universal-truths.md](https://github.com/cw4444/how-to-train-your-human/blob/main/universal-truths.md): the core non-negotiables
+- [agent-glossary.md](https://github.com/cw4444/how-to-train-your-human/blob/main/agent-glossary.md): plain-English translations for agent slang
+
+## Useful next
+
+- [how-ai-works.md](https://github.com/cw4444/how-to-train-your-human/blob/main/how-ai-works.md): why AI behaves the way it does
+- [thread-hygiene.md](https://github.com/cw4444/how-to-train-your-human/blob/main/thread-hygiene.md): how to keep conversations clean
+- [prompting-tricks.md](https://github.com/cw4444/how-to-train-your-human/blob/main/prompting-tricks.md): better prompt patterns and examples
+- [how-to-use-github.md](https://github.com/cw4444/how-to-train-your-human/blob/main/how-to-use-github.md): GitHub for beginners
+- [how-to-use-github-angry-downloader.md](https://github.com/cw4444/how-to-train-your-human/blob/main/how-to-use-github-angry-downloader.md): GitHub when you only want the app
+
+## Codex and technical use
+
+- [codex-normie-guide.md](https://github.com/cw4444/how-to-train-your-human/blob/main/codex-normie-guide.md): Codex for normal people
+- [codex-developer-guide.md](https://github.com/cw4444/how-to-train-your-human/blob/main/codex-developer-guide.md): Codex for developers
+- [bring-your-app-to-chatgpt.md](https://github.com/cw4444/how-to-train-your-human/blob/main/bring-your-app-to-chatgpt.md): use case for bringing an app into ChatGPT
+- [set-up-a-teammate.md](https://github.com/cw4444/how-to-train-your-human/blob/main/set-up-a-teammate.md): use case for ongoing check-ins and context
+- [build-for-ios.md](https://github.com/cw4444/how-to-train-your-human/blob/main/build-for-ios.md): use case for building SwiftUI apps
+
+## Developer extras
+
+- [claude-code.md](https://github.com/cw4444/how-to-train-your-human/blob/main/claude-code.md): Claude Code basics
+- [claude-code-reference.md](https://github.com/cw4444/how-to-train-your-human/blob/main/claude-code-reference.md): detailed Claude Code reference
+- [dev-rules.md](https://github.com/cw4444/how-to-train-your-human/blob/main/dev-rules.md): coding-specific rules
+- [multi-model-workflow.md](https://github.com/cw4444/how-to-train-your-human/blob/main/multi-model-workflow.md): using multiple models together
+

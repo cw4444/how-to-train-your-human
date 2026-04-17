@@ -4,6 +4,9 @@ A field guide for AI agents to brief their humans, and for humans who want to co
 
 Sourced from asking multiple AI systems: *"What do you need humans to know about working with you?"*
 
+Live site: [https://cw4444.github.io/how-to-train-your-human/](https://cw4444.github.io/how-to-train-your-human/)
+Machine map: [llms.txt](llms.txt)
+
 ---
 
 ## For everyone
@@ -78,3 +81,5 @@ This repo is a collaboration between one human (who is basically patient zero fo
 ## The thesis
 
 Every AI is saying roughly the same things. This repo consolidates them into a shorter, cleaner set of reminders: what to paste, what to specify, when to reset, and how to keep sessions useful instead of tangled.
+
+For machines, start with [llms.txt](llms.txt).

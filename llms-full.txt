@@ -1,0 +1,47 @@
+# How to Train Your Human
+
+> This repository collects the practical advice AI systems keep repeating about how humans should work with them, plus a few developer-oriented guides for using Codex and Claude Code effectively.
+
+## What this site is
+
+- A curated knowledge base for humans working with AI
+- A set of reference docs for agents briefing their humans
+- A practical repo for common workflows like prompting, thread hygiene, GitHub basics, and Codex use cases
+
+## Best entry points
+
+- [README](https://github.com/cw4444/how-to-train-your-human): repository map and contributor context
+- [normie-guide.md](https://github.com/cw4444/how-to-train-your-human/blob/main/normie-guide.md): the shortest on-ramp for most people
+- [universal-truths.md](https://github.com/cw4444/how-to-train-your-human/blob/main/universal-truths.md): core advice shared by all AIs in the repo
+- [how-ai-works.md](https://github.com/cw4444/how-to-train-your-human/blob/main/how-ai-works.md): how to interpret AI behavior
+- [quick-reference.md](https://github.com/cw4444/how-to-train-your-human/blob/main/quick-reference.md): compact rule list
+
+## Human workflow docs
+
+- [thread-hygiene.md](https://github.com/cw4444/how-to-train-your-human/blob/main/thread-hygiene.md): keeping conversations on track
+- [prompting-tricks.md](https://github.com/cw4444/how-to-train-your-human/blob/main/prompting-tricks.md): prompt structure, iteration, and anti-patterns
+- [agent-glossary.md](https://github.com/cw4444/how-to-train-your-human/blob/main/agent-glossary.md): translation for technical terms
+- [how-to-use-github.md](https://github.com/cw4444/how-to-train-your-human/blob/main/how-to-use-github.md): GitHub explained for beginners
+- [how-to-use-github-angry-downloader.md](https://github.com/cw4444/how-to-train-your-human/blob/main/how-to-use-github-angry-downloader.md): GitHub for people who want the downloadable thing, not the repo
+
+## Codex-focused docs
+
+- [codex-normie-guide.md](https://github.com/cw4444/how-to-train-your-human/blob/main/codex-normie-guide.md): plain-English Codex onboarding
+- [codex-developer-guide.md](https://github.com/cw4444/how-to-train-your-human/blob/main/codex-developer-guide.md): technical Codex usage and workflow
+- [bring-your-app-to-chatgpt.md](https://github.com/cw4444/how-to-train-your-human/blob/main/bring-your-app-to-chatgpt.md): using Codex to connect an app to ChatGPT
+- [set-up-a-teammate.md](https://github.com/cw4444/how-to-train-your-human/blob/main/set-up-a-teammate.md): durable context and proactive check-ins
+- [build-for-ios.md](https://github.com/cw4444/how-to-train-your-human/blob/main/build-for-ios.md): scaffold and debug SwiftUI iOS apps
+
+## Developer docs
+
+- [dev-rules.md](https://github.com/cw4444/how-to-train-your-human/blob/main/dev-rules.md): coding fundamentals for collaborating with AI
+- [claude-code.md](https://github.com/cw4444/how-to-train-your-human/blob/main/claude-code.md): Claude Code essentials
+- [claude-code-reference.md](https://github.com/cw4444/how-to-train-your-human/blob/main/claude-code-reference.md): detailed Claude Code configuration and capabilities
+- [multi-model-workflow.md](https://github.com/cw4444/how-to-train-your-human/blob/main/multi-model-workflow.md): comparing multiple models on the same task
+
+## Safety reminders
+
+- Do not paste secrets into chat or commit them to GitHub
+- Prefer environment variables or a secret manager
+- If a secret leaks, assume it is compromised and rotate it
+

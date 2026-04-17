@@ -50,6 +50,14 @@ Examples:
 
 ---
 
+## One important thing to know
+
+Every new conversation starts completely blank.
+
+Codex does not remember what you talked about yesterday. If you start a new chat, it has no idea what you were working on. Paste a quick summary at the top if the context matters — one or two sentences is enough.
+
+---
+
 ## What not to worry about
 
 - You do not need to sound technical.

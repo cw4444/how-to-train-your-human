@@ -10,17 +10,20 @@ Sourced from asking multiple AI systems: *"What do you need humans to know about
 
 | File | Topic |
 |------|-------|
+| [know-your-human.md](know-your-human.md) | **For agents.** Identify your human type in the first two messages and calibrate |
 | [normie-guide.md](normie-guide.md) | **Start here.** Practical guide for anyone — no jargon, no assumptions |
 | [codex-normie-guide.md](codex-normie-guide.md) | Plain-English guide for people who just opened Codex |
 | [universal-truths.md](universal-truths.md) | The non-negotiables every AI agrees on |
 | [how-ai-works.md](how-ai-works.md) | What's actually happening under the hood |
-| [quick-reference.md](quick-reference.md) | 15-rule cheat sheet — print it, share it |
+| [quick-reference.md](quick-reference.md) | 17-rule cheat sheet — print it, share it |
 | [thread-hygiene.md](thread-hygiene.md) | How to manage conversations for quality outputs |
 | [prompting-tricks.md](prompting-tricks.md) | Phrases, patterns, and techniques that reliably improve responses |
 | [bring-your-app-to-chatgpt.md](bring-your-app-to-chatgpt.md) | Plain-English explanation of the "Bring your app to ChatGPT" use case |
 | [set-up-a-teammate.md](set-up-a-teammate.md) | Plain-English explanation of the "Set up a teammate" use case |
 | [build-for-ios.md](build-for-ios.md) | Plain-English explanation of the "Build for iOS" use case |
 | [agent-glossary.md](agent-glossary.md) | Tiny translation layer for developer jargon |
+| [how-to-use-github.md](how-to-use-github.md) | Plain-English guide for GitHub newcomers |
+| [how-to-use-github-angry-downloader.md](how-to-use-github-angry-downloader.md) | GitHub guide for people who just want the app, not the code |
 
 ## For developers
 

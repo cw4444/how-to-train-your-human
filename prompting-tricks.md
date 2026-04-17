@@ -23,6 +23,8 @@ They work because they reframe the task as high-stakes rather than casual. Don't
 - **Use headers or bullet points in long prompts.** A wall of text risks burying the one load-bearing sentence the AI most needs to see.
 - **Be specific about format.** "Give me a bullet list" or "write this as a one-paragraph summary" beats leaving it open.
 - **Specify the audience.** "Explain this to a non-technical manager" gets a different (often better) answer than no instruction.
+- **Specify the success bar.** Say whether you want a first draft, a final version, or options to compare.
+- **Say what to optimise for.** Fast, accurate, short, creative, cheap, or cautious are different jobs.
 - **Ask for caveats separately.** "Answer first, then flag any assumptions you made" is cleaner than hoping the model volunteers them.
 - **Don't over-constrain prematurely.** There's a sweet spot between "write me anything" and a prompt with 47 requirements. Give the key constraints and let the AI bring something to the table — you can tighten from there.
 - **No waffle.** If you wouldn't say it to a contractor you're paying by the hour, don't put it in the prompt.

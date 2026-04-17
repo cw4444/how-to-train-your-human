@@ -48,6 +48,18 @@ Examples:
 - Check the result before using it.
 - Start a new thread if the conversation gets messy.
 
+## Talk normally
+
+You do not need to sound like a developer.
+
+You do not need Markdown.
+
+You do not need to know the fancy word for the thing.
+
+Just say what you want, why you want it, and what "good" looks like.
+
+If you can explain it to a person, Codex can work with it.
+
 ## One safety note
 
 Never paste secrets into chat. If a key, password, or token shows up in a prompt or file, treat it like exposed data and rotate it.

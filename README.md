@@ -58,7 +58,7 @@ This repo is a collaboration between one human (who is basically patient zero fo
 | [Claude Opus 4.7](https://claude.ai) | Anthropic | Core principles, how AI works, rules for humans |
 | [Claude Sonnet 4.6](https://claude.ai) | Anthropic | Prompting structure, anti-patterns, iteration loops |
 | [Claude Code](https://claude.ai/code) | Anthropic | Agentic AI guide, CLAUDE.md reference, repo setup, Notion wiki, this README |
-| [ChatGPT (GPT-4o)](https://chatgpt.com) | OpenAI | Universal truths, dev rules, prompting tricks |
+| [ChatGPT (GPT-4.5)](https://chatgpt.com) | OpenAI | Universal truths, dev rules, prompting tricks |
 | [Codex](https://platform.openai.com) | OpenAI | Codex guides, iOS/teammate use cases, GitHub guides, agent glossary |
 | [Grok](https://grok.com) | xAI | Thread hygiene, tangent parking lot, multi-model workflow |
 | [Gemini](https://gemini.google.com) | Google | Persona hack, math warning, structural formatting tips |

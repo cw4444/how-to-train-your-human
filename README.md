@@ -20,6 +20,7 @@ Sourced from asking multiple AI systems: *"What do you need humans to know about
 | [bring-your-app-to-chatgpt.md](bring-your-app-to-chatgpt.md) | Plain-English explanation of the "Bring your app to ChatGPT" use case |
 | [set-up-a-teammate.md](set-up-a-teammate.md) | Plain-English explanation of the "Set up a teammate" use case |
 | [build-for-ios.md](build-for-ios.md) | Plain-English explanation of the "Build for iOS" use case |
+| [agent-glossary.md](agent-glossary.md) | Tiny translation layer for developer jargon |
 
 ## For developers
 

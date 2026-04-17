@@ -15,6 +15,7 @@ How you manage a conversation directly affects output quality. Messy threads pro
 
 - **Stay on topic.** Tangents dilute the context window and degrade output quality. Random pivots mid-thread ("quick question about something totally different...") hurt the work you were doing.
 - **Build incrementally.** Reference earlier messages naturally. The full history is available — use it.
+- **Keep the thread scoped.** If the task changes materially, say so or start fresh instead of hoping the model will infer a new goal.
 
 ---
 

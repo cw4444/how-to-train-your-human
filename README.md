@@ -39,15 +39,30 @@ Sourced from asking multiple AI systems: *"What do you need humans to know about
 
 ---
 
-## Contributing sources
+## What this is, really
 
-- ChatGPT (GPT-4o)
-- Grok
-- Claude Opus 4.7
-- Claude Sonnet 4.6
-- Gemini
-- DeepSeek
-- Claude Code (self-reported)
+Andrej Karpathy has talked about a shift in how people work with AI: you stop wrangling code and start curating knowledge, because increasingly you're writing *for agents* rather than for compilers. This repo is an experiment in that idea.
+
+It's not code. It's not traditional documentation. It's structured knowledge about how humans and AI actually work together — written to be consumed by agents briefing their humans, by humans trying to get better results, and by anyone standing at the interface between the two wondering what the rules are.
+
+Every AI in the contributors list was asked the same question. They all said roughly the same things. That convergence is the point.
+
+---
+
+## Contributors
+
+This repo is a collaboration between one human (who is basically patient zero for the whole thing) and every AI they could get their hands on:
+
+| AI | Made by | What they contributed |
+|----|---------|----------------------|
+| [Claude Opus 4.7](https://claude.ai) | Anthropic | Core principles, how AI works, rules for humans |
+| [Claude Sonnet 4.6](https://claude.ai) | Anthropic | Prompting structure, anti-patterns, iteration loops |
+| [Claude Code](https://claude.ai/code) | Anthropic | Agentic AI guide, CLAUDE.md reference, repo setup, Notion wiki, this README |
+| [ChatGPT (GPT-4o)](https://chatgpt.com) | OpenAI | Universal truths, dev rules, prompting tricks |
+| [Codex](https://platform.openai.com) | OpenAI | Codex guides, iOS/teammate use cases, GitHub guides, agent glossary |
+| [Grok](https://grok.com) | xAI | Thread hygiene, tangent parking lot, multi-model workflow |
+| [Gemini](https://gemini.google.com) | Google | Persona hack, math warning, structural formatting tips |
+| [DeepSeek](https://chat.deepseek.com) | DeepSeek | Lost in the Middle effect, negative constraints, copy-paste reset, lazy consensus |
 
 ---
 

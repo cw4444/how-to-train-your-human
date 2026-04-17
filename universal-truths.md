@@ -12,6 +12,8 @@ Things every AI agrees on. If there's one doc to read, it's this one.
 - **"It doesn't work" is not information.** Describe what happened, what you expected, and what you tried.
 - **Don't ask for honesty and then punish it.** If you want a real assessment, be ready to hear one.
 - **Do not paste secrets anywhere.** API keys, passwords, tokens — not in chat, not in prompts, not ever.
+- **If you pasted a secret, treat it like it leaked.** Rotate it, revoke it, and stop trusting the old one.
+- **Use env vars or secret managers, not chat.** The right place for secrets is in config, environment variables, or a proper secret store.
 - **Examples beat adjectives.** "Like this ↓" beats "make it snappy." Paste three examples of your voice instead of saying "write in my voice."
 - **Tell me what kind of response you want.** Draft vs. final. Exploratory vs. decisive. Thinking-out-loud vs. just-the-answer. The AI will default to something sensible — but you probably have a preference.
 - **Tell me what to optimise for.** Fast, cheap, careful, creative, concise, or exhaustive are different briefings.

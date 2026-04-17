@@ -48,6 +48,10 @@ Examples:
 - Check the result before using it.
 - Start a new thread if the conversation gets messy.
 
+## One safety note
+
+Never paste secrets into chat. If a key, password, or token shows up in a prompt or file, treat it like exposed data and rotate it.
+
 ---
 
 ## One important thing to know

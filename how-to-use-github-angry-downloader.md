@@ -44,6 +44,10 @@ If you were handed a bag of flour and asked where the cake is, that feeling is v
 4. Look for a file ending in `.exe`, `.dmg`, or `.zip`.
 5. If none of that exists, assume it is source code.
 
+## One safety note
+
+Do not paste passwords, API keys, or tokens into GitHub comments, issues, or pull requests. If a secret is already exposed, rotate it.
+
 ---
 
 ## What the words mean
@@ -79,4 +83,3 @@ If you do not want the code, you are probably looking for the release, installer
 ---
 
 *Source: Common GitHub workflow advice, translated for normal humans*
-

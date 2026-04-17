@@ -63,6 +63,10 @@ They work together.
 4. If you are not coding, ask what the repo is for and what the next step is.
 5. If someone says "make a branch," think "make a safe copy," not "panic."
 
+## One safety note
+
+Do not paste passwords, API keys, or tokens into GitHub comments, issues, or pull requests. If a secret is already exposed, rotate it.
+
 ---
 
 ## Good habits

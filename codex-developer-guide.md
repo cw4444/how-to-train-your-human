@@ -76,6 +76,10 @@ That loop is why short, focused tasks usually beat giant "do everything" prompts
 - Use small commits and review diffs
 - Reset context when the thread starts to accumulate noise
 
+## One safety note
+
+Never paste secrets into a prompt or let them leak into logs, diffs, or screenshots. If a secret is exposed anywhere, assume it is compromised and rotate it.
+
 ---
 
 ## Common failure modes

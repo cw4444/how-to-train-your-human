@@ -21,6 +21,7 @@
 - **local** = on your own computer, not online
 - **repo** = the project folder tracked in GitHub
 - **branch** = a safe side copy of the project where you can make changes without touching the main version
+- **secret** = sensitive stuff like API keys, passwords, and tokens that should not be pasted into chat or committed to Git
 
 ---
 
@@ -61,3 +62,9 @@ If a guide starts sounding like this:
 that is a clue the wording has drifted too technical.
 
 This glossary is here so the repo can say the same thing in English.
+
+## A note on secrets
+
+If a tool asks for a secret, do not paste it into a random chat window.
+
+Use the project's supported secret storage, environment variables, or a secret manager. If you already pasted a real secret somewhere unsafe, assume it is exposed and rotate it.

@@ -97,4 +97,4 @@ For any non-trivial task, this order reduces wasted effort:
 
 ---
 
-*Sources: ChatGPT (GPT-4.5), Claude Sonnet 4.6, Gemini, DeepSeek, Grok*
+*Sources: ChatGPT (GPT-5.4), Claude Sonnet 4.6, Gemini, DeepSeek, Grok*

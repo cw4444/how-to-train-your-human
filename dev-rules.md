@@ -13,4 +13,4 @@ For humans working with AI on code. Non-negotiable basics.
 
 ---
 
-*Source: ChatGPT (GPT-4.5)*
+*Source: ChatGPT (GPT-5.4)*

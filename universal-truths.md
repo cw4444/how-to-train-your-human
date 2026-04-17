@@ -40,4 +40,4 @@ Things every AI agrees on. If there's one doc to read, it's this one.
 
 ---
 
-*Sources: ChatGPT (GPT-4.5), Claude Opus 4.7, Claude Sonnet 4.6, DeepSeek, Grok*
+*Sources: ChatGPT (GPT-5.4), Claude Opus 4.7, Claude Sonnet 4.6, DeepSeek, Grok*

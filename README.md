@@ -66,6 +66,15 @@ This repo is a collaboration between one human (who is basically patient zero fo
 
 ---
 
+## Stay current
+
+| Account | Platform | What it covers |
+|---------|----------|---------------|
+| [@ClaudeDevs](https://x.com/ClaudeDevs) | X/Twitter | Claude changelogs, API releases, community updates. Has the orange monster. |
+| [@OpenAIDevs](https://x.com/OpenAIDevs) | X/Twitter | Codex and OpenAI API updates for developers. |
+
+---
+
 ## The thesis
 
 Every AI is saying roughly the same things. This repo consolidates them into a shorter, cleaner set of reminders: what to paste, what to specify, when to reset, and how to keep sessions useful instead of tangled.

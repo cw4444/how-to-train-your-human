@@ -102,4 +102,10 @@ If you want the task to stay scoped, say so up front.
 
 ---
 
+## Stay current
+
+**[@OpenAIDevs](https://x.com/OpenAIDevs)** — official OpenAI account for developers. Changelogs, API updates, and Codex releases.
+
+---
+
 *Source: Codex*

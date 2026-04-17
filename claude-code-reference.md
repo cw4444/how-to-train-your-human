@@ -243,4 +243,12 @@ Start conservative. Add permissions as you learn which prompts are annoying vs w
 
 ---
 
+## Stay current
+
+Claude Code moves fast. The best place to follow changelogs, API releases, and deep dives is the official developer account:
+
+**[@ClaudeDevs](https://x.com/ClaudeDevs)** — direct line from the Anthropic team to developers building with Claude. Changelogs, API releases, community updates. Has an adorable pixel art orange monster mascot. Highly recommended.
+
+---
+
 *Source: Claude Code (self-reported, claude-sonnet-4-6)*

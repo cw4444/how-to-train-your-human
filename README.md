@@ -24,6 +24,9 @@ Machine map: [llms.txt](llms.txt)
 | [bring-your-app-to-chatgpt.md](bring-your-app-to-chatgpt.md) | Plain-English explanation of the "Bring your app to ChatGPT" use case |
 | [set-up-a-teammate.md](set-up-a-teammate.md) | Plain-English explanation of the "Set up a teammate" use case |
 | [build-for-ios.md](build-for-ios.md) | Plain-English explanation of the "Build for iOS" use case |
+| [learn-a-new-concept.md](learn-a-new-concept.md) | Plain-English explanation of the "Learn a new concept" use case |
+| [agent-friendly-clis.md](agent-friendly-clis.md) | Plain-English explanation of the "Agent-friendly CLIs" use case |
+| [mcp-for-normal-people.md](mcp-for-normal-people.md) | Connect AI tools to other apps without needing to build custom glue |
 | [agent-glossary.md](agent-glossary.md) | Tiny translation layer for developer jargon |
 | [how-to-use-github.md](how-to-use-github.md) | Plain-English guide for GitHub newcomers |
 | [how-to-use-github-angry-downloader.md](how-to-use-github-angry-downloader.md) | GitHub guide for people who just want the app, not the code |

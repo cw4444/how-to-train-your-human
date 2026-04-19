@@ -10,6 +10,12 @@ You are not stupid.
 
 GitHub is just the place where the project lives. Sometimes that project is a downloadable app. Sometimes it is source code that someone has to build first.
 
+## If you only remember one thing
+
+If you want the app, look for a download or a release.
+
+If you see mostly code, you are probably in the developer area of the project, not the user area.
+
 If you only want to use the app, you are looking for one of these:
 
 - a **Download** button
@@ -18,6 +24,18 @@ If you only want to use the app, you are looking for one of these:
 - an install page in the project README
 
 If you are not seeing any of that, the repo is probably for developers, not regular users.
+
+---
+
+## What to click first
+
+1. Look at the top of the page for **Releases**.
+2. Open the **README** and skim for install or download instructions.
+3. Search the page for `.exe`, `.dmg`, `.zip`, or the word **download**.
+4. If you find a release file, that is usually the thing you want.
+5. If you only find source code, stop there unless you are comfortable following developer instructions.
+
+If those words are new to you, that is fine. Keep going.
 
 ---
 
@@ -52,11 +70,15 @@ Do not paste passwords, API keys, or tokens into GitHub comments, issues, or pul
 
 ## What the words mean
 
+- **clone** = make a copy of the project on your computer
 - **repo** = the project folder
 - **branch** = a safe copy of the project
 - **commit** = a saved checkpoint
-- **build** = turn the code into something usable
+- **README** = the instructions page
 - **release** = the downloadable version, if the project has one
+- **build** = turn the code into something usable
+- **install** = put the app on your device
+- **run** = start the thing
 
 ---
 
@@ -69,6 +91,8 @@ The honest answer is:
 - or ask someone to build it for you
 
 If the project does not provide a release, there may not be a ready-made app to download.
+
+If that happens, the project is not trying to be friendly to non-developers. That is annoying, but it is useful information.
 
 ---
 
